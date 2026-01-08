@@ -1,6 +1,7 @@
 # Su-22 FlightGear Development
 
-We are a community-driven development team focused on the high-fidelity simulation of the **Polish-operated Su-22M4 and Su-22UM3K** aircraft for the **FlightGear** open-source flight simulator.
+We are a community-driven development team focused on the high-fidelity simulation of the **Polish-operated Su-22M4 and**
+**Su-22UM3K** aircraft for the **FlightGear** open-source flight simulator.
 
 Our goal is to create a **professional-level simulation**, with strong emphasis on:
 - accurate flight dynamics (JSBSim),
